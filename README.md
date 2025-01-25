@@ -5,6 +5,7 @@
     padding: 10px;
   }
 </style>
+<table>
   <tr>
     <th style="padding: 10px;"><strong>Willkommen auf meinem GitHub Profil</strong></th>
     <th style="padding: 10px;"><strong>Und sonst?</strong></th>
@@ -36,6 +37,7 @@ XML Signaturen (evelopping und enveloped) mit den Standards
 von Java. Die xsd Schema lassen sich über die Nodejs native
 spawn Technik umsetzen, die Adressraum-Isolierung sichert und 
 eine valide cli Programmierung innerhalb von Nodejs erlaubt.</td>
+</table>
 <p></p>
 <p>Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern.</p>
 <p></p>
