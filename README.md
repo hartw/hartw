@@ -16,10 +16,9 @@ zur Seite gestellt, um die Pfade vom Ist-Stand zum Soll-Stand
 einvernehmlich darzustellen. 
 Dies fördert die weitere Entwicklung und einer Fortführung 
 des BSI Grundschutz.</p>
-
   </div>
-  <div style="flex: 1; padding: 10px">
-    <p>Darüber hinaus programmiere ich aus Freude und bin dabei auf 
+<div style="flex: 1; padding: 10px">
+<p>Darüber hinaus programmiere ich aus Freude und bin dabei auf 
 ECMA Script spezialisiert, wobei ich meine Kenntnisse auf 
 NodeJS und MongoDB ausdehnen konnte. Basiskenntnisse in Python 
 und Java erlauben mir auch begrenzte Entwicklungen zusammen mit 
@@ -33,8 +32,9 @@ spawn Technik umsetzen, die Adressraum-Isolierung sichert und
 eine valide cli Programmierung innerhalb von Nodejs erlaubt.
 </p>
 <p>Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern.</p>
-<p></p><p><strong>Ihr Hartwig Ritter</strong></p>
-  </div>
+<p></p>
+<p><strong>Ihr Hartwig Ritter</strong></p>
+</div>
 </div>
 
 
