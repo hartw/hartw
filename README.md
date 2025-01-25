@@ -18,9 +18,9 @@ Reifegradanalyse eine kaufmännisch verständliche IT-Planung
 zur Seite gestellt, um die Pfade vom Ist-Stand zum Soll-Stand 
 einvernehmlich darzustellen. 
 Dies fördert die weitere Entwicklung und einer Fortführung 
-des BSI Grundschutz.</td>
+des BSI Grundschutz.</td></tr>
     
-<td style="padding: 10px;">Darüber hinaus programmiere ich aus Freude und bin dabei auf 
+<tr><td style="padding: 10px;">Darüber hinaus programmiere ich aus Freude und bin dabei auf 
 ECMA Script spezialisiert, wobei ich meine Kenntnisse auf 
 NodeJS und MongoDB ausdehnen konnte. Basiskenntnisse in Python 
 und Java erlauben mir auch begrenzte Entwicklungen zusammen mit 
@@ -31,7 +31,7 @@ Für das JWT ist Python aus meiner Sicht am einfachsten und die
 XML Signaturen (evelopping und enveloped) mit den Standards 
 von Java. Die xsd Schema lassen sich über die Nodejs native
 spawn Technik umsetzen, die Adressraum-Isolierung sichert und 
-eine valide cli Programmierung innerhalb von Nodejs erlaubt.</td>
+eine valide cli Programmierung innerhalb von Nodejs erlaubt.</td></tr>
 </table>
 <p></p>
 <p>Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern.</p>
