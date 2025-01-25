@@ -33,7 +33,7 @@ spawn Technik umsetzen, die Adressraum-Isolierung sichert und
 eine valide cli Programmierung innerhalb von Nodejs erlaubt.
 </p>
 <p>Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern.</p>
-<p></p><p><strong>Ihr Hartwig Ritter</strong>strong></p>
+<p></p><p><strong>Ihr Hartwig Ritter</strong></p>
   </div>
 </div>
 
