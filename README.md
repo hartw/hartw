@@ -1,10 +1,5 @@
 # Hi there 👋
 -------------
-<style>
-  table td, table th {
-    padding: 10px;
-  }
-</style>
 <table>
   <tr>
     <th style="padding: 10px;"><strong>Willkommen auf meinem GitHub Profil</strong></th>
