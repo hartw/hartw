@@ -2,8 +2,8 @@
 -------------
 <table>
   <tr>
-    <th style="padding: 10px;"><strong>Willkommen auf meinem GitHub Profil</strong></th>
-    <th style="padding: 10px;"><strong>Und sonst?</strong></th>
+    <th style="padding: 10px;border:none;" ><strong>Willkommen auf meinem GitHub Profil</strong></th>
+    <th style="padding: 10px;border:none;"><strong>Und sonst?</strong></th>
   </tr>
   <tr>
     <td style="padding: 10px;">Mein Name ist Hartwig Ritter. Seit ca. 30 Jahren arbeite ich 
