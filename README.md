@@ -1,9 +1,16 @@
 # Hi there 👋
 -------------
-<div style="display: flex">
-  <div style="flex: 1; padding: 10px">
-    <h2>Willkommen auf meinem GitHub Profil </h2>
-    <p>Mein Name ist Hartwig Ritter. Seit ca. 30 Jahren arbeite ich 
+<style>
+  table td, table th {
+    padding: 10px;
+  }
+</style>
+  <tr>
+    <th style="padding: 10px;"><strong>Willkommen auf meinem GitHub Profil</strong></th>
+    <th style="padding: 10px;"><strong>Und sonst?</strong></th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Mein Name ist Hartwig Ritter. Seit ca. 30 Jahren arbeite ich 
 in der IT. Meine aktuellen Projekte haben die Durchführung von 
 Risikoanalysen zum Schwerpunkt. Bei meinem Status als ISO27001 
 Certified ISMS Lead Implementer (CIS LI), ISO/IEC 27001:2022, 
@@ -15,10 +22,9 @@ Reifegradanalyse eine kaufmännisch verständliche IT-Planung
 zur Seite gestellt, um die Pfade vom Ist-Stand zum Soll-Stand 
 einvernehmlich darzustellen. 
 Dies fördert die weitere Entwicklung und einer Fortführung 
-des BSI Grundschutz.</p>
-  </div>
-<div style="flex: 1; padding: 10px">
-<p>Darüber hinaus programmiere ich aus Freude und bin dabei auf 
+des BSI Grundschutz.</td>
+    
+<td style="padding: 10px;">Darüber hinaus programmiere ich aus Freude und bin dabei auf 
 ECMA Script spezialisiert, wobei ich meine Kenntnisse auf 
 NodeJS und MongoDB ausdehnen konnte. Basiskenntnisse in Python 
 und Java erlauben mir auch begrenzte Entwicklungen zusammen mit 
@@ -29,13 +35,11 @@ Für das JWT ist Python aus meiner Sicht am einfachsten und die
 XML Signaturen (evelopping und enveloped) mit den Standards 
 von Java. Die xsd Schema lassen sich über die Nodejs native
 spawn Technik umsetzen, die Adressraum-Isolierung sichert und 
-eine valide cli Programmierung innerhalb von Nodejs erlaubt.
-</p>
+eine valide cli Programmierung innerhalb von Nodejs erlaubt.</td>
+<p></p>
 <p>Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern.</p>
 <p></p>
 <p><strong>Ihr Hartwig Ritter</strong></p>
-</div>
-</div>
 
 
 
