@@ -19,10 +19,11 @@ des BSI Grundschutz.</p>
 <p>Darüber hinaus programmiere ich aus Freude und bin dabei auf 
 ECMA Script spezialisiert, wobei ich meine Kenntnisse auf 
 NodeJS und MongoDB ausdehnen konnte. Basiskenntnisse in Python 
-und Java erlauben mir auch begrenzte Entwicklungen zusammen mit 
-künstlicher Intelligenz. Somit kann ich etwa die Anforderungen 
+und Java erlauben mir auch begrenzte Entwicklungen unter Zuhilfenahme 
+von künstlicher Intelligenz. Somit kann ich etwa die Anforderungen 
 des BZSt für CESOP in der DIP Schnittstelle ds BZSt umsetzen, 
-wobei NodeJS eben nicht das deutsche RSA-PSS Kryptoverfahren umsetzt.
+wobei NodeJS eben nicht bei deutschen Behörden und in einigen
+deutschen Branchen verwendete RSA-PSS Kryptoverfahren umsetzt.
 Für das JWT ist Python aus meiner Sicht am einfachsten und die 
 XML Signaturen (evelopping und enveloped) mit den Standards 
 von Java. Die xsd Schema lassen sich über die Nodejs native
