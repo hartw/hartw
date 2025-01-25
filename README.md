@@ -1,12 +1,8 @@
 # Hi there 👋
--------------
-<table>
-  <tr>
-    <th style="padding: 10px;border:none;" ><strong>Willkommen auf meinem GitHub Profil</strong></th>
-    <th style="padding: 10px;border:none;"><strong>Und sonst?</strong></th>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Mein Name ist Hartwig Ritter. Seit ca. 30 Jahren arbeite ich 
+
+## Willkommen auf meinem GitHub Profil
+----
+<p>Mein Name ist Hartwig Ritter. Seit ca. 30 Jahren arbeite ich 
 in der IT. Meine aktuellen Projekte haben die Durchführung von 
 Risikoanalysen zum Schwerpunkt. Bei meinem Status als ISO27001 
 Certified ISMS Lead Implementer (CIS LI), ISO/IEC 27001:2022, 
@@ -18,9 +14,9 @@ Reifegradanalyse eine kaufmännisch verständliche IT-Planung
 zur Seite gestellt, um die Pfade vom Ist-Stand zum Soll-Stand 
 einvernehmlich darzustellen. 
 Dies fördert die weitere Entwicklung und einer Fortführung 
-des BSI Grundschutz.</td></tr>
+des BSI Grundschutz.</p>
     
-<tr><td style="padding: 10px;">Darüber hinaus programmiere ich aus Freude und bin dabei auf 
+<p>Darüber hinaus programmiere ich aus Freude und bin dabei auf 
 ECMA Script spezialisiert, wobei ich meine Kenntnisse auf 
 NodeJS und MongoDB ausdehnen konnte. Basiskenntnisse in Python 
 und Java erlauben mir auch begrenzte Entwicklungen zusammen mit 
@@ -31,8 +27,7 @@ Für das JWT ist Python aus meiner Sicht am einfachsten und die
 XML Signaturen (evelopping und enveloped) mit den Standards 
 von Java. Die xsd Schema lassen sich über die Nodejs native
 spawn Technik umsetzen, die Adressraum-Isolierung sichert und 
-eine valide cli Programmierung innerhalb von Nodejs erlaubt.</td></tr>
-</table>
+eine valide cli Programmierung innerhalb von Nodejs erlaubt.
 <p></p>
 <p>Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern.</p>
 <p></p>
